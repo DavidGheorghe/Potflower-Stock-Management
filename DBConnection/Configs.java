@@ -5,7 +5,7 @@ public class Configs {
 	protected static String dbhost = "localhost";
 	protected static String dbport = "3306";
 	protected static String dbuser = "root";
-	protected static String dbpassword = "televizor420";
+	protected static String dbpassword = "***"; // your db password
 	protected static String dbname = "product";
 
 }
